@@ -1,0 +1,12 @@
+# Ignore target directory
+target/
+
+# Other common ignores
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+*.class
+
