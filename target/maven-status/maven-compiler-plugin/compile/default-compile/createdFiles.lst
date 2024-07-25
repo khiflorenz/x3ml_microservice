@@ -1,0 +1,7 @@
+net/artresearch/api/X3mlApiApplication.class
+net/artresearch/api/service/X3MLSession.class
+net/artresearch/api/HeapSizeLogger.class
+net/artresearch/api/controller/X3MLController.class
+net/artresearch/api/service/X3MLService.class
+net/artresearch/api/model/X3MLSessionRequest.class
+net/artresearch/api/service/X3MLSessionManager.class

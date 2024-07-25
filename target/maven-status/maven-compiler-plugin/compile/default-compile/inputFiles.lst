@@ -1,0 +1,7 @@
+/home/rafael/coding/java_api_x3ml_v2/src/main/java/net/artresearch/api/X3mlApiApplication.java
+/home/rafael/coding/java_api_x3ml_v2/src/main/java/net/artresearch/api/HeapSizeLogger.java
+/home/rafael/coding/java_api_x3ml_v2/src/main/java/net/artresearch/api/model/X3MLSessionRequest.java
+/home/rafael/coding/java_api_x3ml_v2/src/main/java/net/artresearch/api/controller/X3MLController.java
+/home/rafael/coding/java_api_x3ml_v2/src/main/java/net/artresearch/api/service/X3MLService.java
+/home/rafael/coding/java_api_x3ml_v2/src/main/java/net/artresearch/api/service/X3MLSession.java
+/home/rafael/coding/java_api_x3ml_v2/src/main/java/net/artresearch/api/service/X3MLSessionManager.java
